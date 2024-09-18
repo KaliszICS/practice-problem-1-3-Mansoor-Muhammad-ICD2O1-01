@@ -10,7 +10,7 @@ def q1():
    print("******"," end = ")
 print("******"," end = ") 
 print("******"," end = ") 
-print("******")   
+print("*******")   
 
 #2
 print("*****"," end = " )
