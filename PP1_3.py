@@ -7,23 +7,22 @@
 
 def q1():
    #1
-   print("******"," end = ")
-print("******"," end = ") 
-print("******"," end = ") 
-print("*******")   
+    print(" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n")
 
 #2
-print("*****"," end = " )
-print("*   *"," end = ")
-print("*   *"," end = ")
-print("*   *"," end = ")
-print("*****")
+print("* * * * *")
+print("*       *")
+print("*       *")
+print("*       *")
+print("* * * * *")
 
 #3
-print("******"," end = ")
-print(" *  *"," end =  ")
-print("  * *"," end = ")
-print("   * ")
+print("* * * * * *")
+print(" *       *")
+print("  *     *")
+print("   *   *")
+print("    * *")
+print("     *")
    #Remember your code must be indented once
 
 def q2():
