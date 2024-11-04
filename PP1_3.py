@@ -1,13 +1,38 @@
-
+'''
+    Lesson 3 - Using Strings
+    Author: Mansoor Muhammad 
+    Date Created: September 17th, 2024 
+    Date Last Modified: September 17th, 2024 
+''' 
 
 def q1():
-  #Write Assignment code here
-  #Remember your code must be indented once
+   #1
+    print(" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n")
+
+    #2
+    print("* * * * *")
+    print("*       *")
+    print("*       *")
+    print("*       *")
+    print("* * * * *")
+    
+    #3
+    print("* * * * * *")
+    print(" *       *")
+    print("  *     *")
+    print("   *   *")
+    print("    * *")
+    print("     *")
+   #Remember your code must be indented once
 
 def q2():
+   print("Hello" end = " ")
+   print("World\n")
   #Write Assignment code here
   
 def q3():
+  print("Man\nBoard\nMan Overboard""")
+      
   #Write Assignment code here
   
 
@@ -16,3 +41,4 @@ def q3():
 q1()
 q2()
 q3()
+
